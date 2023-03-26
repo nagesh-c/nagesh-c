@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nagesh-c
+- 👋 Hi, I’m Nagesh
 - 👀 I’m interested in Operating System, Distributed System and Networking
 - 🌱 I’m currently learning Rustlang
 - 📫 Reach me @ nageshc1992@gmail.com
