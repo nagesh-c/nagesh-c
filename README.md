@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nagesh
 - 👀 I’m interested in Operating System, Distributed System and Networking
-- At my work I write tons of C code enable Computer Networks run smoothly.
+- At my work I write tons of C code enable Computer Networks run smoothly
 - 🌱 I’m currently learning Rustlang
 - 📫 Reach me @ nageshc1992@gmail.com
 
